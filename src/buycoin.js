@@ -39,9 +39,6 @@ export default {
         openProduct(item) {
             this.tempProduct = item;
         },
-        eidtProduct(){
-            
-        }
     },
     mounted() {
         // 取出 Token
